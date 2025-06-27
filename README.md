@@ -1,4 +1,4 @@
-# Tyler Gomez Riddick
+# Tyler Gomez Riddick 🧑‍💻
 
 **Data Scientist | Data Analyst | NLP Enthusiast**
 
@@ -6,13 +6,13 @@ Salem, OR | [Portfolio](https://www.datascienceportfol.io/tylergomezriddick) | [
 
 ---
 
-## About Me
+## About Me 🙋‍♂️
 
 I am a data scientist with a strong background in data engineering, statistical analysis, machine learning, and natural language processing. As a co-founder of a data science consulting firm, I enjoy collaborating across teams to solve complex challenges and streamline data-driven workflows. I am skilled in Python, SQL, Power BI, and cloud platforms, with experience building and optimizing dashboards and predictive models.
 
 ---
 
-## Skills
+## Skills 🛠️
 
 - **Programming & Scripting:** Python, SQL, R  
 - **Data Engineering:** ETL/ELT, Data Modeling, Relational Databases  
@@ -22,7 +22,7 @@ I am a data scientist with a strong background in data engineering, statistical 
 
 ---
 
-## Selected Projects
+## Selected Projects 🚀
 
 ### [Predicting Stock Market Movements Through Social Media Sentiment Analysis](https://github.com/tpriddick/msds-capstone)
 *Capstone Project — Lead Data Scientist*  
@@ -50,7 +50,7 @@ Led analysis of climate-driven immigration trends and created impactful alluvial
 
 ---
 
-## Experience
+## Experience 💼
 
 - **Illumination Data Solutions** — Data Scientist  
   Led development of predictive models and BI dashboards for diverse industries. Improved client operations and reporting processes.
@@ -69,7 +69,7 @@ Led analysis of climate-driven immigration trends and created impactful alluvial
 
 ---
 
-## Education
+## Education 🎓
 
 **Willamette University**  
 - **M.S. Data Science** (2024)  
@@ -77,7 +77,7 @@ Led analysis of climate-driven immigration trends and created impactful alluvial
 
 ---
 
-## Links
+## Links 🔗
 
 - 📂 [Portfolio](https://www.datascienceportfol.io/tylergomezriddick)
 - 💼 [LinkedIn](https://www.linkedin.com/in/tyler-gomez-riddick/)
