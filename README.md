@@ -28,7 +28,7 @@ I am a data scientist with a strong background in data engineering, statistical 
 *Capstone Project — Lead Data Scientist*  
 Developed an end-to-end pipeline to scrape and analyze 100,000+ social media posts, integrating them into a custom database. Built machine learning models that predicted stock market movements with over 50% accuracy.
 
-### [Drivers of MLB Attendance — Is Winning Worth It?](#your-link-here)
+### [Drivers of MLB Attendance — Is Winning Worth It?](https://github.com/tpriddick/mlb_machine_learning)
 *Data Scientist*  
 Aggregated 30+ years of MLB stats and employed clustering and regression models to explain 45% of the variation in game attendance. Collaborated on data cleaning, modeling, and analysis.
 
