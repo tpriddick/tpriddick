@@ -32,7 +32,7 @@ Developed an end-to-end pipeline to scrape and analyze 100,000+ social media pos
 *Data Scientist*  
 Aggregated 30+ years of MLB stats and employed clustering and regression models to explain 45% of the variation in game attendance. Collaborated on data cleaning, modeling, and analysis.
 
-### [Exploring Gender Pronoun Distribution and Character Identification in 19th Century Novels](#your-link-here)
+### [Exploring Gender Pronoun Distribution and Character Identification in 19th Century Novels](https://github.com/tpriddick/sparknlp_gender)
 *NLP Specialist*  
 Designed a scalable SparkNLP pipeline to predict character gender with 75% accuracy, earning a “Best Use of Statistics” award. Presented results to academic audiences.
 
