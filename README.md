@@ -44,7 +44,7 @@ Built an automated system to ingest and analyze weather and traffic data via API
 *Data Scientist*  
 Cleaned and modeled battery lifespan data, achieving predictive models with high R² values (> 0.95). Presented insights to technical stakeholders.
 
-### [Climate Change and European Immigration](#your-link-here)
+### [Climate Change and European Immigration](https://github.com/tpriddick/climate_migration)
 *Data Analyst & Visualization Specialist*  
 Led analysis of climate-driven immigration trends and created impactful alluvial and bar chart visualizations. Invited to mentor at Willamette University’s Data Fest.
 
@@ -83,5 +83,3 @@ Led analysis of climate-driven immigration trends and created impactful alluvial
 - 💼 [LinkedIn](https://www.linkedin.com/in/tyler-gomez-riddick/)
 
 ---
-
-_Repository links for individual projects will be added soon._
