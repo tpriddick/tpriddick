@@ -8,7 +8,7 @@ Salem, OR | [Portfolio](https://www.datascienceportfol.io/tylergomezriddick) | [
 
 ## About Me 🙋‍♂️
 
-I am a data scientist with a strong background in data engineering, statistical analysis, machine learning, and natural language processing. As a co-founder of a data science consulting firm, I enjoy collaborating across teams to solve complex challenges and streamline data-driven workflows. I am skilled in Python, SQL, Power BI, and cloud platforms, with experience building and optimizing dashboards and predictive models.
+I am a data scientist with a strong background in data science, statistical analysis, machine learning, and natural language processing. As a co-founder of a data science consulting firm, I enjoy collaborating across teams to solve complex challenges and streamline data-driven workflows. I am skilled in Python, R, SQL, and Power BI, with experience building and optimizing dashboards and predictive models.
 
 ---
 
